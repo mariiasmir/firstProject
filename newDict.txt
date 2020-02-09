@@ -1,0 +1,7 @@
+apple 80
+orange 75
+banana 50
+milk 45
+cheese 120
+bread 20
+water 15
